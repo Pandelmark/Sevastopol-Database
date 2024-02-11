@@ -1,1 +1,1 @@
-# Sevastopol-JDBC
+# Sevastopol-Database
