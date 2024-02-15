@@ -11,5 +11,6 @@ GRANT ALL PRIVILEGES ON sevastopol_db.* TO Ripley;
 
 SHOW GRANTS FOR Ripley;
 
+# Example registries
 INSERT INTO residents (firstname, lastname, department, stay_time, salary) VALUES ('Zachary', 'Wastson', 'ME', 17, 610600);
 INSERT INTO residents (firstname, lastname, department, stay_time, salary) VALUES ('Felinda', 'Whitechapel', 'Neurologist', 25, 600000);
